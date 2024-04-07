@@ -1,4 +1,4 @@
-<h1>Hi, I'm Victoria! <br/><a href="https://github.com/VictoriaLauri">A Software Developer</a> <a href="https://www.linkedin.com/in/victorialauri/">with background in Sales and Business Development</a></h1>
+![Header](./github-header-vl.png)
 
 <h2>Software Development Projects:</h2>
 
