@@ -3,7 +3,7 @@
 <h2>Software Development Projects:</h2>
 
 - <b>Python Practice</b>
-  - coming soon...
+  - [Collection of tasks and exercises to practice my Python skills acquisition](https://github.com/VictoriaLauri/Python-Practice) 
 
 <h2>Web Development Projects:</h2>
 
