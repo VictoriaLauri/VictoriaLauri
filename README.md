@@ -3,7 +3,10 @@
 <h2>Software Development Projects:</h2>
 
 - <b>Python Practice</b>
-  - [Collection of tasks and exercises to practice my Python skills acquisition](https://github.com/VictoriaLauri/Python-Practice) 
+  - [Collection of tasks and exercises to practice my Python skills acquisition](https://github.com/VictoriaLauri/Python-Practice)
+ 
+- <b>Django Practice</b>
+  - [How many days until Halloween counter](https://github.com/VictoriaLauri/calendar_count_220424)
 
 <h2>Web Development Projects:</h2>
 
