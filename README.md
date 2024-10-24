@@ -1,4 +1,4 @@
-![Header](./github-header-vl.png)
+![Header](./vl_github_banner_b.jpg)
 
 <h2>Software Development Projects:</h2>
 
