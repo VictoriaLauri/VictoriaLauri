@@ -21,11 +21,11 @@ Aspiring front-end developer with a background in sales, management, and linguis
 <h2>Software Development Projects:</h2>
 
 - <b>Javascript</b>
-  - [Collection of tasks and exercises to practice my Javascript skills acquisition](https://github.com/VictoriaLauri/Python-Practice)
+  - [Collection of tasks and exercises to practice my Javascript skills acquisition](https://github.com/VictoriaLauri/)
     
 - <b>React</b>
-  - [Personal portfolio solution using ChakraUI and Formik](https://github.com/VictoriaLauri/Python-Practice)
-  - [Collection of components](https://github.com/VictoriaLauri/Python-Practice)
+  - [Personal portfolio solution using ChakraUI and Formik](https://github.com/VictoriaLauri/react-portfolio)
+  - [Collection of components](https://github.com/VictoriaLauri/)
 
 - <b>Python Practice</b>
   - [Collection of tasks and exercises to practice my Python skills acquisition](https://github.com/VictoriaLauri/Python-Practice)
