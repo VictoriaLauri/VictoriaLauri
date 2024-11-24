@@ -2,7 +2,7 @@
 
 <h2>Bio:</h2>
 
-Aspiring front-end developer with a background in sales, management, and linguistics. Passionate about building accessible, user-centered web solutions using HTML, CSS, and JavaScript. A keen contributor to collective intelligence and a devoted diversity and inclusion advocate.
+An aspiring front-end developer with a background in sales, management, and linguistics. Passionate about building accessible, user-centered web solutions using HTML, CSS, and JavaScript. A keen contributor to collective intelligence and a devoted diversity and inclusion advocate.
 
 <h2>Languages and Tools:</h2>
 <img align="left" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> 
@@ -18,22 +18,25 @@ Aspiring front-end developer with a background in sales, management, and linguis
 <br />
 <br />
 
-<h2>Software Development Projects:</h2>
+<h2>Software Development:</h2>
 
 - <b>Javascript</b>
-  - [Collection of tasks and exercises to practice my Javascript skills acquisition](https://github.com/VictoriaLauri/)
+  - [Collection of tasks and exercises completed as part of Meta Front-End Development Certification curriculum](https://github.com/VictoriaLauri/)
     
 - <b>React</b>
-  - [Personal portfolio solution using ChakraUI and Formik](https://github.com/VictoriaLauri/react-portfolio)
-  - [Collection of components](https://github.com/VictoriaLauri/)
+  - [Personal A creative portfolio solution using ChakraUI and Formik](https://github.com/VictoriaLauri/react-portfolio)
+  - [Collection of components developed as part of Meta Front-End Development Certification](https://github.com/VictoriaLauri/)
 
-- <b>Python Practice</b>
+- <b>Python</b>
   - [Collection of tasks and exercises to practice my Python skills acquisition](https://github.com/VictoriaLauri/Python-Practice)
  
-- <b>Django Practice</b>
+- <b>Django</b>
   - [How many days until Halloween counter](https://github.com/VictoriaLauri/calendar_count_220424)
+ 
+- <b>Harvard CS50</b>
+  - [Exercises and projects completed as part of CS50: Introduction to Computer Science](https://github.com/VictoriaLauri/harvard-CS50)
 
-<h2>Web Development Projects:</h2>
+<h2>Web Development:</h2>
 
 - <b>Youtube Clone project </b>
   - [Link to Project Website](https://victorialauri.github.io/Youtube-Clone/)
