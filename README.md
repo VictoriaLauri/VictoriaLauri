@@ -20,24 +20,28 @@ An aspiring front-end developer with a background in sales, management, and ling
 
 <h2>Software Development:</h2>
 
+- <b>Harvard CS50 Computer Science</b>
+  - [Exercises and projects completed as part of CS50: Introduction to Computer Science](https://github.com/VictoriaLauri/harvard-CS50)
+ 
+- <b>Harvard CS50’s Web Programming with Python and JavaScript</b>
+  - [Exercises and projects completed as part of CS50’s Web Programming with Python and JavaScript](https://github.com/VictoriaLauri/cs50-web)
+
 - <b>Javascript</b>
   - [Collection of tasks and exercises completed as part of Meta Front-End Development Certification curriculum](https://github.com/VictoriaLauri/)
     
 - <b>React</b>
-  - [Personal A creative portfolio solution using ChakraUI and Formik](https://github.com/VictoriaLauri/react-portfolio)
-  - [Collection of components developed as part of Meta Front-End Development Certification](https://github.com/VictoriaLauri/)
+  - [A creative personal portfolio solution using ChakraUI and Formik](https://github.com/VictoriaLauri/react-portfolio)
+  - [A collection of components developed as part of Meta Front-End Development Certification](https://github.com/VictoriaLauri/)
+
+- <b>HTML and CSS</b>
+  - [Collection of tasks and exercises completed as part of Meta Front-End Development Certification curriculum](https://github.com/VictoriaLauri/meta-html-css)
 
 - <b>Python</b>
   - [Collection of tasks and exercises to practice my Python skills acquisition](https://github.com/VictoriaLauri/Python-Practice)
  
 - <b>Django</b>
   - [How many days until Halloween counter](https://github.com/VictoriaLauri/calendar_count_220424)
- 
-- <b>Harvard CS50 Computer Science</b>
-  - [Exercises and projects completed as part of CS50: Introduction to Computer Science](https://github.com/VictoriaLauri/harvard-CS50)
- 
-- <b>Harvard CS50’s Web Programming with Python and JavaScript</b>
-  - [Exercises and projects completed as part of CS50’s Web Programming with Python and JavaScript](https://github.com/VictoriaLauri/cs50-web)
+
 
 <h2>Web Development:</h2>
 
