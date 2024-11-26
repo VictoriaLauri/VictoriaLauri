@@ -33,8 +33,11 @@ An aspiring front-end developer with a background in sales, management, and ling
 - <b>Django</b>
   - [How many days until Halloween counter](https://github.com/VictoriaLauri/calendar_count_220424)
  
-- <b>Harvard CS50</b>
+- <b>Harvard CS50 Computer Science</b>
   - [Exercises and projects completed as part of CS50: Introduction to Computer Science](https://github.com/VictoriaLauri/harvard-CS50)
+ 
+- <b>Harvard CS50’s Web Programming with Python and JavaScript</b>
+  - [Exercises and projects completed as part of CS50’s Web Programming with Python and JavaScript](https://github.com/VictoriaLauri/cs50-web)
 
 <h2>Web Development:</h2>
 
