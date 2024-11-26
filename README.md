@@ -27,11 +27,11 @@ An aspiring front-end developer with a background in sales, management, and ling
   - [Exercises and projects completed as part of CS50’s Web Programming with Python and JavaScript](https://github.com/VictoriaLauri/cs50-web)
 
 - <b>Javascript</b>
-  - [Collection of tasks and exercises completed as part of Meta Front-End Development Certification curriculum](https://github.com/VictoriaLauri/)
+  - [Collection of tasks and exercises completed as part of Meta Front-End Development Certification curriculum](https://github.com/VictoriaLauri/meta-js)
     
 - <b>React</b>
   - [A creative personal portfolio solution using ChakraUI and Formik](https://github.com/VictoriaLauri/react-portfolio)
-  - [A collection of components developed as part of Meta Front-End Development Certification](https://github.com/VictoriaLauri/)
+  - [A collection of components developed as part of Meta Front-End Development Certification](https://github.com/VictoriaLauri/meta-react)
 
 - <b>HTML and CSS</b>
   - [Collection of tasks and exercises completed as part of Meta Front-End Development Certification curriculum](https://github.com/VictoriaLauri/meta-html-css)
