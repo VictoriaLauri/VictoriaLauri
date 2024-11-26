@@ -47,6 +47,9 @@ An aspiring front-end developer with a background in sales, management, and ling
  
 - <b>Hair Day project </b>
   - [Project Repository](https://github.com/VictoriaLauri/hairday)
+ 
+- <b>Prototyping in Figma</b>
+  - [.fig files Repository](https://github.com/VictoriaLauri/figma)
 
 <h2> Connect with me:</h2>
 
