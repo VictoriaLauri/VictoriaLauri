@@ -44,6 +44,9 @@ An aspiring front-end developer with a background in sales, management, and ling
 - <b>Youtube Clone project </b>
   - [Link to Project Website](https://victorialauri.github.io/Youtube-Clone/)
   - [Project Repository](https://github.com/VictoriaLauri/Youtube-Clone)
+ 
+- <b>Hair Day project </b>
+  - [Project Repository](https://github.com/VictoriaLauri/hairday)
 
 <h2> Connect with me:</h2>
 
