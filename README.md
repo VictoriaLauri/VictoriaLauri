@@ -17,6 +17,7 @@ An aspiring front-end developer with a background in sales, management, and ling
 
 <br />
 <br />
+<br />
 
 <h2>Software Development:</h2>
 
