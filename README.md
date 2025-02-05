@@ -36,6 +36,7 @@ An aspiring front-end developer with a background in sales, management, and ling
 - <b>Javascript Apps</b>
   - [Times Tables Practice Game adapted to special needs](https://github.com/VictoriaLauri/times-tables-game)
   - [Simple in-browser task manager](https://github.com/VictoriaLauri/simple-task-manager-js)
+  - ["The Mind Maze" Trivia Quiz Game](https://github.com/VictoriaLauri/mind-maze-quiz-app)
     
 - <b>React (Meta Front-End Development Certification)</b>
   - [A creative personal portfolio solution using ChakraUI and Formik](https://github.com/VictoriaLauri/react-portfolio)
