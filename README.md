@@ -2,7 +2,7 @@
 
 <h2>Bio:</h2>
 
-An aspiring front-end developer with a background in sales, management, and linguistics. Passionate about building accessible, user-centered web solutions using HTML, CSS, and JavaScript. A keen contributor to collective intelligence and a devoted diversity and inclusion advocate.
+An aspiring full-stack developer with a background in sales, management, and linguistics. Passionate about building accessible, user-centered web solutions using HTML, CSS, and JavaScript. A keen contributor to collective intelligence and a devoted diversity and inclusion advocate.
 
 <h2>Languages and Tools:</h2>
 <img align="left" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> 
