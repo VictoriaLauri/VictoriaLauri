@@ -21,6 +21,9 @@ An aspiring front-end developer with a background in sales, management, and ling
 
 <h2>Software Development:</h2>
 
+- <b> Latest React.js projects </b>
+  - [Feedback App: add, edit and delete rating and review](https://github.com/VictoriaLauri/react-feedback-app)
+
 - <b>Harvard CS50 Computer Science</b>
   - [Exercises and projects completed as part of CS50: Introduction to Computer Science](https://github.com/VictoriaLauri/harvard-CS50)
  
