@@ -22,7 +22,7 @@ An aspiring full-stack developer with a background in sales, management, and lin
 <h2>Software Development:</h2>
 
 - <b> Full-Stack Nano-degree Project </b>
-  - [Feedback App: add, edit and delete rating and review](https://github.com/VictoriaLauri/weather-watch-app)
+  - [WeatherWatch: get a personalized movie recommendation based on your current weather](https://github.com/VictoriaLauri/weather-watch-app)
 
 - <b> Latest React.js projects </b>
   - [Feedback App: add, edit and delete rating and review](https://github.com/VictoriaLauri/react-feedback-app)
