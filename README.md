@@ -20,6 +20,8 @@ A mission-driven full-stack developer with a background in sales, team leadershi
 <br />
 
 <h2>Software Development:</h2>
+- <b> SL Mortgages multi-functional independent mortgage broker app </b>
+  - [SL Mortgages web app *work in progress*](https://github.com/VictoriaLauri/slmortgages)
 
 - <b> WIT HuddleHive Hackathon (30/06/2025) Finalists Project Demo of Ease - a comprehensive retrofit + AI house chores solution </b>
   - [Ease: Home Living Made Simple](https://github.com/VictoriaLauri/ease-app)
