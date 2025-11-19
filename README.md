@@ -30,7 +30,7 @@ A mission-driven full-stack developer with a background in sales, team leadershi
 - <b> Full-Stack Nano-degree Project </b>
   - [WeatherWatch: get a personalized movie recommendation based on your current weather](https://github.com/VictoriaLauri/weather-watch-app)
 
-- <b> Latest React.js projects </b>
+- <b> Simple Feedback Component set </b>
   - [Feedback App: add, edit and delete rating and review](https://github.com/VictoriaLauri/react-feedback-app)
 
 - <b>Harvard CS50 Computer Science</b>
