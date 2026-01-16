@@ -19,10 +19,13 @@ A mission-driven full-stack developer with a background in sales, team leadershi
 
 <h2>Software Development:</h2>
 
-- <b> SL Mortgages multi-functional independent mortgage broker app </b>
-  - [SL Mortgages web app *(work in progress)*](https://github.com/VictoriaLauri/slmortgages)
+- <b> Personal portfolio website built using Typescript, React and Tailwind CSS </b>
+  - [victorialauri.com](https://github.com/VictoriaLauri/victorialauri-portfolio)
+    
+- <b> SL Mortgages multi-functional independent mortgage broker app built using Typescript, React and Tailwind CSS </b>
+  - [SL Mortgages web app](https://github.com/VictoriaLauri/slmortgages)
 
-- <b> WIT HuddleHive Hackathon (30/06/2025) Finalists Project Demo of Ease - a comprehensive retrofit + AI house chores solution </b>
+- <b> WIT HuddleHive Hackathon (30/06/2025) Finalists Project Demo of Ease (built using JavaScript and React) </b>
   - [Ease: Home Living Made Simple](https://github.com/VictoriaLauri/ease-app)
 
 - <b> Full-Stack Nano-degree Project </b>
