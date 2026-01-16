@@ -19,22 +19,22 @@ A mission-driven full-stack developer with a background in sales, team leadershi
 
 <h2>Software Development:</h2>
 
-- <b> Personal portfolio website built using Typescript, React and Tailwind CSS </b>
+- <b> Personal portfolio website with automated news section ( Typescript | React | Tailwind CSS )</b>
   - [victorialauri.com](https://github.com/VictoriaLauri/victorialauri-portfolio)
     
-- <b> SL Mortgages multi-functional independent mortgage broker app built using Typescript, React and Tailwind CSS </b>
+- <b> SL Mortgages multi-functional independent mortgage broker app ( Typescript | React | Tailwind CSS ) </b>
   - [SL Mortgages web app](https://github.com/VictoriaLauri/slmortgages)
 
-- <b> WIT HuddleHive Hackathon (30/06/2025) Finalists Project Demo of Ease (built using JavaScript and React) </b>
+- <b> WIT HuddleHive Hackathon (30/06/2025) Finalists Project Demo of Ease ( JavaScript | React | Tailwind CSS ) </b>
   - [Ease: Home Living Made Simple](https://github.com/VictoriaLauri/ease-app)
 
-- <b> Full-Stack Nano-degree Project </b>
+- <b> CFG Full-Stack Nano-degree Project ( React | Node.js | MySQL | JWT |Jest ) </b>
   - [WeatherWatch: get a personalized movie recommendation based on your current weather](https://github.com/VictoriaLauri/weather-watch-app)
 
-- <b> Simple Feedback Component set </b>
+- <b> Simple Feedback Component set ( Javascript | React ) </b>
   - [Feedback App: add, edit and delete rating and review](https://github.com/VictoriaLauri/react-feedback-app)
 
-- <b>Harvard CS50 Computer Science</b>
+- <b>Harvard CS50 Computer Science ( C | Python | HTML | CSS ) </b>
   - [Exercises and projects completed as part of CS50: Introduction to Computer Science](https://github.com/VictoriaLauri/harvard-CS50)
  
 - <b>Harvard CS50’s Web Programming with Python and JavaScript</b>
