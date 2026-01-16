@@ -1,4 +1,4 @@
-![Header](./vl_github_banner_b.jpg)
+![Header](./linkedin_banner_jan26.png)
 
 <h2>Bio:</h2>
 
