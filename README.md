@@ -2,7 +2,7 @@
 
 <h2>Bio:</h2>
 
-A mission-driven full-stack developer with a background in sales, team leadership, and linguistics. Passionate about building accessible, user-centered digital solutions. Working primarily in JavaScript, React, TypeScript, Node.js, APIs, SQL. A keen contributor to collective intelligence and a devoted diversity and inclusion advocate.
+A mission-driven full-stack developer with a background in sales and business development. Working primarily in JavaScript, React, TypeScript, Node.js, APIs, SQL. Passionate about building accessible, user-centered digital solutions. A keen contributor to collective intelligence and a devoted diversity and inclusion advocate.
 
 <h2>Languages and Tools:</h2>
 <img align="left" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> 
