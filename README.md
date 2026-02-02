@@ -22,13 +22,13 @@ A mission-driven full-stack developer with a background in sales, team leadershi
 - <b> Personal portfolio website with automated news section ( Typescript | React | Tailwind CSS )</b>
   - [victorialauri.com](https://github.com/VictoriaLauri/victorialauri-portfolio)
     
-- <b> SL Mortgages multi-functional independent mortgage broker app ( Typescript | React | Tailwind CSS ) </b>
+- <b> SL Mortgages multi-functional independent mortgage broker lead conversion app ( Typescript | React | Tailwind CSS ) </b>
   - [SL Mortgages web app](https://github.com/VictoriaLauri/slmortgages)
 
-- <b> WIT HuddleHive Hackathon (30/06/2025) Finalists Project Demo of Ease ( JavaScript | React | Tailwind CSS ) </b>
+- <b> WIT HuddleHive Hackathon Finalists Project Demo of Ease app ( JavaScript | React | Tailwind CSS ) </b>
   - [Ease: Home Living Made Simple](https://github.com/VictoriaLauri/ease-app)
 
-- <b> CFG Full-Stack Nano-degree Project ( React | Node.js | MySQL | JWT |Jest ) </b>
+- <b> CFG Full-Stack Nano-degree Project app ( React | Node.js | MySQL | JWT authentication | Jest ) </b>
   - [WeatherWatch: get a personalized movie recommendation based on your current weather](https://github.com/VictoriaLauri/weather-watch-app)
 
 - <b> Simple Feedback Component set ( Javascript | React ) </b>
@@ -37,7 +37,7 @@ A mission-driven full-stack developer with a background in sales, team leadershi
 - <b>Harvard CS50 Computer Science ( C | Python | HTML | CSS ) </b>
   - [Exercises and projects completed as part of CS50: Introduction to Computer Science](https://github.com/VictoriaLauri/harvard-CS50)
  
-- <b>Harvard CS50’s Web Programming with Python and JavaScript</b>
+- <b>Harvard CS50’s Web Programming ( Python | JavaScript )</b>
   - [Exercises and projects completed as part of CS50’s Web Programming with Python and JavaScript](https://github.com/VictoriaLauri/cs50-web)
 
 - <b>Harvard CS50’s Introduction to Programming with Python</b>
@@ -46,7 +46,7 @@ A mission-driven full-stack developer with a background in sales, team leadershi
 - <b>Javascript (Meta Front-End Development Certification)</b>
   - [Collection of tasks and exercises completed as part of Meta Front-End Development Certification curriculum](https://github.com/VictoriaLauri/meta-js)
 
-- <b>Javascript Apps</b>
+- <b>Vanilla Javascript Apps</b>
   - [Times Tables Practice Game adapted to special needs](https://github.com/VictoriaLauri/times-tables-game)
   - [Simple in-browser task manager](https://github.com/VictoriaLauri/simple-task-manager-js)
   - ["The Mind Maze" Trivia Quiz Game](https://github.com/VictoriaLauri/mind-maze-quiz-app)
@@ -63,11 +63,11 @@ A mission-driven full-stack developer with a background in sales, team leadershi
 
 <h2>Web Development:</h2>
 
-- <b>Youtube Clone project </b>
+- <b>Youtube Clone project (HTML | CSS ) </b>
   - [Link to Project Website](https://victorialauri.github.io/Youtube-Clone/)
   - [Project Repository](https://github.com/VictoriaLauri/Youtube-Clone)
  
-- <b>Hair Day project (Meta Front-End Development Certification)</b>
+- <b>Hair Day project (Meta Front-End Development Certification HTML | CSS )</b>
   - [Project Repository](https://github.com/VictoriaLauri/hairday)
  
 - <b>Prototyping in Figma (Meta Front-End Development Certification) </b>
@@ -76,11 +76,7 @@ A mission-driven full-stack developer with a background in sales, team leadershi
 <h2> Connect with me:</h2>
 
 [<img align="left" alt="VictoriaLauri | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="VictoriaLauri | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="VictoriaLauri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="VictoriaLauri | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/victorialauri_x
 [youtube]: https://www.youtube.com/@victorialauri
-[instagram]: https://www.instagram.com/mauimagic007/
 [linkedin]: https://linkedin.com/in/victorialauri
